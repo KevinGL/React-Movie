@@ -122,9 +122,7 @@ const Movies = () => {
                     setChangerPage(true);
 
                 }}>Page suivante</button>}
-            </div>
-
-            <div className="list_buttons">
+            
                 <button onClick={() => {
 
                     setNumPage(1);
